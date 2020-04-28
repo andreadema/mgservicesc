@@ -1,6 +1,9 @@
 ---
 title: Lavora con noi
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: |-
+  Vuoi entrare a far parte della nostra realtà?
+
+  Compila il form sottostante e allega il tuo Curriculum Vitae.
 menu:
   main:
     name: Lavora con noi
