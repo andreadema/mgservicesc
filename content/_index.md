@@ -4,7 +4,7 @@ banner:
   title: Movimentiamo merce. Anche la tua.
   subtitle: Da 15 anni siamo presenti nei maggiori centri distributivi del nord italia.
   actions:
-    - label: Learn More
+    - label: Canditati
       url: /no-sidebar
       is_primary: false
       is_scrolly: false
