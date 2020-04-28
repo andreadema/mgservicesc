@@ -21,9 +21,7 @@ sections:
         description: Il processo trasversale di pianificazione, organizzazione e
           controllo delle attività finalizzate a rendere disponibile la cosa
           giusta al momento giusto, nel luogo desiderato, rappresenta in sintesi
-          la nostra filosofia. Depositi non solo come entità fisica, ma elemento
-          fondamentale del Supply Chain, in cui l’insieme delle decisioni
-          determinano la migliore soluzione di efficienza del servizio.
+          la nostra filosofia.
       - title: Riorganizzazione delle merci
         icon:
           enabled: true
