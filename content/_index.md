@@ -13,30 +13,32 @@ sections:
   - type: features
     section_id: features
     features:
-      - title: Integer vitae consequat sed magna feugiat
+      - title: La tua merce in mani sicure
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
-        description: Prova
-      - title: Phasellus libero eu sed augue gravida
+        description: Il processo trasversale di pianificazione, organizzazione e
+          controllo delle attività finalizzate a rendere disponibile la cosa
+          giusta al momento giusto, nel luogo desiderato, rappresenta in sintesi
+          la nostra filosofia. Depositi non solo come entità fisica, ma elemento
+          fondamentale del Supply Chain, in cui l’insieme delle decisioni
+          determinano la migliore soluzione di efficienza del servizio.
+      - title: Riorganizzazione delle merci
         icon:
           enabled: true
           icon: fa-pie-chart
           style: style2
-        description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
-      - title: Lacus ultricies sagittis mi dui dapibus
+        description: Riorganizza la merce non venduta, rientrata dai punti vendita, e
+          nuovamente resa disponibile al ciclo distributivo.
+      - title: Attività su linee produttive
         icon:
           enabled: true
           icon: fa-cube
           style: style3
-        description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+        description: Attività su linee produttive, come ad esempio l’etichettatura ed il
+          confezionamento nel fine linea di un’azienda specializzata nella
+          trasformazione delle carni.
     component: features.html
   - type: cta
     section_id: cta
