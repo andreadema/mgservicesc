@@ -40,9 +40,9 @@ sections:
     component: features.html
   - type: cta
     section_id: cta
-    title: Ultrices ante sagittis nunc senectus libero netus
+    title: Entra in contatto con noi
     actions:
-      - label: How it works
+      - label: Contatti
         url: /contact
         is_primary: false
         is_scrolly: false
