@@ -5,7 +5,7 @@ banner:
   subtitle: Da 15 anni siamo presenti nei maggiori centri distributivi del nord italia.
   actions:
     - label: Canditati
-      url: /no-sidebar
+      url: /elements
       is_primary: false
       is_scrolly: false
       is_huge: true
