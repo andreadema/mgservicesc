@@ -46,10 +46,8 @@ sections:
         url: /contact
         is_primary: false
         is_scrolly: false
-    text: |-
-      Oltre 500 persone ogni giorno sono al vostro servizio. 
-
-      Logistica Integrata al servizio del Cliente.
+    text: Oltre 500 persone ogni giorno sono al vostro servizio. **Logistica
+      Integrata al servizio del Cliente.**
     component: cta.html
   - type: posts
     section_id: posts
