@@ -40,18 +40,16 @@ sections:
     component: features.html
   - type: cta
     section_id: cta
-    title: Entra in contatto con noi
+    title: Persone al vostro servizio
     actions:
-      - label: Contatti
+      - label: Chi siamo
         url: /contact
         is_primary: false
         is_scrolly: false
-    text: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
+    text: |-
+      Oltre 500 persone ogni giorno sono al vostro servizio. 
+
+      Logistica Integrata al servizio del Cliente.
     component: cta.html
   - type: posts
     section_id: posts
