@@ -59,11 +59,6 @@ menu:
       url: "#"
       weight: 3
       parent: submenu
-    - identifier: normal7
-      name: Option Four
-      url: "#"
-      weight: 4
-      parent: submenu
   footer:
     - identifier: normal8
       name: Made with Stackbit
